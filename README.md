@@ -1,1 +1,1 @@
-# OOP_Game
+# HQC @ Software University
